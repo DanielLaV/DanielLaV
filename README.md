@@ -13,7 +13,7 @@
    <img align="center" alt="medium" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />  
   
   
-  <br>  
+---
   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLaV)](https://github.com/DanielLaV/github-readme-stats)
